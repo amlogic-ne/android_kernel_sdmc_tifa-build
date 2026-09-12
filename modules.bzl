@@ -73,7 +73,6 @@ COMMON_DRIVERS_MODULES = [
     "common_drivers/drivers/media/camera/amlogic-camera.ko",
     "common_drivers/drivers/memory_ext/aml_smmu.ko",
     "common_drivers/drivers/memory_ext/user_fault.ko",
-    "common_drivers/drivers/misc/khadas-mcu.ko",
     "common_drivers/drivers/net/ethernet/stmicro/stmmac/amlogic-phy-debug.ko",
     "common_drivers/drivers/net/ethernet/stmicro/stmmac/dwmac-dwc-qos-eth.ko",
     "common_drivers/drivers/net/ethernet/stmicro/stmmac/dwmac-meson.ko",
